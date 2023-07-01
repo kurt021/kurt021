@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kurt021
-- 👀 I’m interested in Arduino
-- 🌱 Python、TouchDesiger
-- 💞️ VRChat
+- 👋 I’m kurt
+- 👀 I’m interested in Arduino，Python
+- 🌱 Frequently used TouchDesiger
+- 💞️ U can find me in VRChat:kurtft
 - 📫 kurt.f.e@foxmail.com
 
 <!---
